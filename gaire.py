@@ -161,7 +161,7 @@ def method_crack():
         main_crack()crack(id)
     elif option =='4':
         methods.append('methodD')
-      main_crack() crack(id)
+      main_crack()crack(id)
     elif option =='0':
         npl()
     else:
